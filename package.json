@@ -1,0 +1,19 @@
+{
+  "name": "add-to-homescreen",
+  "version": "1.0.0",
+  "description": "Script for mobile devices, it automatically shows an overlaying message encouraging to add the web app to the homescreen. Compatible with iOS 6+ and Chrome for Android (soon WinPhone).",
+  "main": "./src/addtohomescreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douathao/add-to-homescreen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douathao/add-to-homescreen/issues"
+  },
+  "homepage": "https://github.com/douathao/add-to-homescreen#readme"
+}
